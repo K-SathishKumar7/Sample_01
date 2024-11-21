@@ -1,2 +1,0 @@
-RewriteCond %{HTTP_HOST} ^www.alizepublishers.com [NC]
-RewriteRule (.*) https://www.alizepublishers.com/$1 [L,R=301]
